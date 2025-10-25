@@ -1,0 +1,19 @@
+{
+  "name": "Khalid Hamza - Tech Lead & Software Architect",
+  "short_name": "Khalid Hamza",
+  "icons": [
+    {
+      "src": "/assets/fav/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/fav/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#111111",
+  "background_color": "#111111",
+  "display": "standalone"
+}
